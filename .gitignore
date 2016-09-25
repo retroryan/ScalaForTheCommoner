@@ -33,3 +33,5 @@ project/plugins/project/
 
 # OS specific
 .DS_Store
+
+.ipynb_checkpoints
